@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlenaPalasionak
 - 👀 I’m interested in learning foreign languages and programming.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning java, English and German.
+- 💞️ I’m looking for a job to learn programming in practice.
+
 
 <!---
 AlenaPalasionak/AlenaPalasionak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
