@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LenaPalasionak
+- 👋 Hi, I’m LenaPalasionak
 - 👀 I’m interested in learning foreign languages and programming.
 - 🌱 I’m currently learning java, English and German.
 - 💞️ I’m looking for a job to learn programming in practice.
