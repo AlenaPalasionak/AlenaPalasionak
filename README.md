@@ -3,9 +3,7 @@
 
 - I’m currently learning **Java Web**
 
-- How to reach me -> **alena.palasionak@yandex.by**
-
-- My CV -> [https://drive.google.com/drive/folders/1v4oPpgkYK1QsYhxbThiJgzvUX9e8g06D](https://drive.google.com/drive/folders/1v4oPpgkYK1QsYhxbThiJgzvUX9e8g06D)
+- My CV [https://drive.google.com/drive/folders/1v4oPpgkYK1QsYhxbThiJgzvUX9e8g06D](https://drive.google.com/drive/folders/1v4oPpgkYK1QsYhxbThiJgzvUX9e8g06D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +16,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alenapalasionak&show_icons=true&locale=en&layout=compact" alt="alenapalasionak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alenapalasionak&show_icons=true&locale=en" alt="alenapalasionak" /></p>
+
+
 <!---
 AlenaPalasionak/AlenaPalasionak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
