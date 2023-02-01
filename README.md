@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub</h1>
-<h3 align="center">I'm Lena. Java Developer with German and English B2 Level</h3>
+<h3 align="center">I'm Lena. Java Developer with German and English B1 Level</h3>
 
 - I’m currently learning **Java Web**
 
