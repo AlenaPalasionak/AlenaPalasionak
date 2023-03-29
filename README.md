@@ -1,7 +1,9 @@
 <h1 align="center">Welcome to my GitHub</h1>
-<h3 align="center">I'm Lena. Java Developer with German and English B1 Level</h3>
+<h3 align="center">I'm Lena. Java Developer with German B1 and English B1 Level</h3>
 
-- I’m currently learning **Java Web**
+- I'm currently working on the project ["База данных резюме", Technologies: OOP, Collections, IO, file processing, Serialization, XML, JSON, Servlets, JDBC, SQL, PostgreSQL, Tomcat, JSP/JSTL, HTML, JUnit, Logging, Git](https://github.com/AlenaPalasionak/basejava/tree/HW1)
+
+- I'm also experienced in UI and Rest API testing. **Technologies: Selenium, TestNg, Page Object Model**
 
 - My CV [https://drive.google.com/drive/folders/1v4oPpgkYK1QsYhxbThiJgzvUX9e8g06D](https://drive.google.com/drive/folders/1v4oPpgkYK1QsYhxbThiJgzvUX9e8g06D)
 
@@ -16,8 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alenapalasionak&show_icons=true&locale=en&layout=compact" alt="alenapalasionak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alenapalasionak&show_icons=true&locale=en" alt="alenapalasionak" /></p>
-
-<!---
-AlenaPalasionak/AlenaPalasionak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
