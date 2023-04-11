@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to my GitHub</h1>
 <h3 align="center">I'm Lena. Java Developer with German B1 and English B1 Level</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alenapalasionak" alt="alenapalasionak" /></a> </p>
+
 - I'm currently working on the project ["База данных резюме", Technologies: OOP, Collections, IO, file processing, Serialization, XML, JSON, Servlets, JDBC, SQL, PostgreSQL, Tomcat, JSP/JSTL, HTML, JUnit, Logging, Git](https://github.com/AlenaPalasionak/basejava/tree/HW1)
 
 - I'm also experienced in UI and Rest API testing. **Technologies: Selenium, TestNg, Page Object Model**
