@@ -1,7 +1,10 @@
 <h1 align="center">Welcome to my GitHub</h1>
 <h3 align="center">I'm Lena. Java Developer with German B1 and English B1 Level</h3>
 
-- I'm currently working on the project ["База данных резюме", Technologies: OOP, Collections, IO, file processing, Serialization, XML, JSON, Servlets, JDBC, SQL, PostgreSQL, Tomcat, JSP/JSTL, HTML, JUnit, Logging, Git](https://github.com/AlenaPalasionak/basejava)
+My projects:
+1. ["База данных резюме", Technologies: OOP, Collections, IO, file processing, Serialization, XML, JSON, Servlets, JDBC, SQL, PostgreSQL, Tomcat, JSP/JSTL, HTML, JUnit, Logging, Git](https://github.com/AlenaPalasionak/basejava)
+2. - [I'm currently working on the project "Transportation data transferer" which automize a part of business process in transport logistics. The link:]
+(https://github.com/AlenaPalasionak/transport_application_analyser)
 
 - I'm also experienced in UI and Rest API testing. **Technologies: Selenium, TestNg, Page Object Model**
 
